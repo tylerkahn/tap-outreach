@@ -906,6 +906,12 @@
         "integer"
       ]
     },
+    "sequenceId": {
+      "type": [
+        "null",
+        "integer"
+      ]
+    },
     "stageId": {
       "type": [
         "null",
